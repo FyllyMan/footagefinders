@@ -7,9 +7,9 @@ Claude Code and Gemini Antigravity were used to assist with code creation. No Ge
 Asset Credits:
 SFX: Directory.audio, Freesound.org
 
-#Smiley Monster: NO DONT EAT ME CASEOH (Ferris wheel) - Sketchfab
-#Player: sanyaork - Sketchfab
-#Camcorder: kennethtzh - Sketchfab
+Smiley Monster: NO DONT EAT ME CASEOH (Ferris wheel) - Sketchfab
+Player: sanyaork - Sketchfab
+Camcorder: kennethtzh - Sketchfab
 VHS Tape: Terizmeh - Sketchfab
 Lockers: Nelamon - Sketchfab
 Bollard: aecoviz - Sketchfab
