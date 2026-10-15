@@ -8,7 +8,7 @@ Asset Credits:
 SFX: Directory.audio, Freesound.org  
 Fetch Bot Sounds: lemonjolly  
   
-Monster Model: NO DONT EAT ME CASEOH (Ferris wheel) - Sketchfab  
+Monster Models: NO DONT EAT ME CASEOH (Ferris wheel) - Sketchfab  
 Player: sanyaork - Sketchfab  
 Camcorder: kennethtzh - Sketchfab  
 VHS Tape: Terizmeh - Sketchfab  
