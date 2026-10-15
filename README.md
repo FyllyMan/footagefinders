@@ -57,6 +57,7 @@ Frog: yanix - Sketchfab
 Porcelain Polly: archmage40 - Sketchfab  
 Masked Child: hanjisung - Sketchfab  
 Battery Charger: Siamak Tavakoli - - Sketchfab  
+Fetch Robot: Yandrack - Sketchfab  
   
 GodotSteam  
 Nexus Resonance  
