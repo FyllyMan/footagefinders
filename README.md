@@ -59,6 +59,7 @@ Porcelain Polly: archmage40 - Sketchfab
 Masked Child: hanjisung - Sketchfab  
 Battery Charger: Siamak Tavakoli - - Sketchfab  
 Fetch Robot: Yandrack - Sketchfab  
+Baseball Bat: DVLT - Sketchfab  
   
 GodotSteam  
 Nexus Resonance  
