@@ -60,6 +60,7 @@ Masked Child: hanjisung - Sketchfab
 Battery Charger: Siamak Tavakoli - - Sketchfab  
 Fetch Robot: Yandrack - Sketchfab  
 Baseball Bat: DVLT - Sketchfab  
+Hay: flewfatoo - Sketchfab  
   
 GodotSteam  
 Nexus Resonance  
